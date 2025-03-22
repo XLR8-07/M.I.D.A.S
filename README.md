@@ -2,7 +2,7 @@
 
 > **Ensure public health and safety during the COVID-19 pandemic** by automating mask detection at entry points using low-cost, accessible hardware and AI.
 
-![ESP32-CAM](diagrams/ESP32-CAM.png)
+![ESP32-CAM](diagrams/Circuit_Schematic.jpg)
 
 ---
 
