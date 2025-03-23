@@ -1,4 +1,4 @@
-# 🛡️ Automated Mask Detection with ESP32-CAM
+# 🛡️ M.I.D.A.S. – Mask Identification Door Access System
 
 > **Ensure public health and safety during the COVID-19 pandemic** by automating mask detection at entry points using low-cost, accessible hardware and AI.
 
